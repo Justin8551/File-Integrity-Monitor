@@ -1,0 +1,5 @@
+baseline.json
+security_log.txt
+*.txt
+*.exe
+__pycache__/
