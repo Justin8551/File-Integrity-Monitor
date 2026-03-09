@@ -19,4 +19,4 @@ Usage:
 1. Place the `fim.py` script in the directory you want to monitor.
 2. Run the script using Python 3.x: `python fim.py`
 
-Author: Dumitru Gabriel Justin# File-Integrity-Monitor
+Author: Dumitru Gabriel Justin
